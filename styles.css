@@ -84,6 +84,9 @@ img.circle {
         padding-top: 50px;
     }
     h1 {
-        font-size: 32px;
+        font-size: 40px;
+    }
+    main {
+        font-size: 22px;
     }
 }
